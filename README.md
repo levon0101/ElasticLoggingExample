@@ -11,3 +11,6 @@ Elastic Serach and kibana init
 Setup Kibana
 
 ![image](https://user-images.githubusercontent.com/30263367/236397541-f73c9e2d-be82-4a28-b8bb-ba6187957126.png)
+
+
+Got to Analitycs --> Discover to see all logs there
