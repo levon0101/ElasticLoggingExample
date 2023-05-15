@@ -6,7 +6,7 @@ Elastic Serach and kibana init
 - cd .\ElasticLoggingExample\ElasticSearchAndKibana\
 - docker-compose up -d
 - http://localhost:9200/    test for Elastic Search
-- http://localhost:9200/    test for Kibana
+- http://localhost:5601/    test for Kibana
 
 Setup Kibana
 
